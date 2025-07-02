@@ -69,6 +69,76 @@ The dataset contains information about apps available on the Google Play Store, 
 ![download](https://github.com/user-attachments/assets/cc434838-8854-444d-99eb-4a56d95c5625)
 ![download](https://github.com/user-attachments/assets/a6bd86c2-7e4d-448d-9ac7-9ef5c3004595)
 
+# 📊 EDA - 2 (HR Employee Data)
+
+Welcome to my second Exploratory Data Analysis (EDA) project! In this notebook, I have analyzed an **HR dataset** containing detailed information about employees — aiming to understand patterns related to attrition, performance, and workplace behavior.
+
+---
+
+## 📁 Dataset Overview
+
+The dataset contains various attributes related to employees, including:
+
+- Satisfaction Level  
+- Last Evaluation Score  
+- Number of Projects  
+- Average Monthly Hours  
+- Time Spent at Company  
+- Work Accident History  
+- Promotion in Last 5 Years  
+- Department  
+- Salary Level  
+- Employee Attrition (Left or Stayed)
+
+---
+
+## 🛠️ Tasks Performed
+
+### ✅ Data Cleaning
+- Checked for and handled missing values  
+- Verified and corrected data types  
+- Removed duplicates and irrelevant entries
+
+### ✅ Univariate Analysis
+- Distribution of satisfaction levels and evaluations  
+- Frequency of departments and salary levels  
+- Attrition counts (left vs stayed)
+
+### ✅ Bivariate/Multivariate Analysis
+- Relationship between satisfaction and attrition  
+- Department-wise attrition trends  
+- Impact of average monthly hours on employee retention
+
+### ✅ Outlier Detection & Handling
+- Detected outliers in numerical features (e.g., working hours)  
+- Treated outliers using capping techniques
+
+### ✅ Visualizations
+- Histograms, box plots, count plots  
+- Bar graphs comparing categorical features  
+- Heatmaps showing feature correlations
+
+---
+
+## 📌 Key Insights
+
+- Low satisfaction level is a strong indicator of employee attrition.  
+- Employees working extremely high or low hours tend to leave more.  
+- Certain departments show higher attrition rates than others.  
+- Salary level influences retention — lower salary tiers see more exits.  
+- Promotion and work accidents also correlate with employee behavior.
+
+---
+
+## 📎 Tools Used
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Jupyter Notebook  
+
+---
+![download](https://github.com/user-attachments/assets/d961510d-632b-4ec8-991d-b9b3f036e688)
+![download](https://github.com/user-attachments/assets/fae94459-4207-4490-bad3-41d19c1fd844)
+
 
 
 
