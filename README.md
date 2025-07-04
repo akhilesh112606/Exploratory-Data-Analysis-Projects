@@ -139,6 +139,74 @@ The dataset contains various attributes related to employees, including:
 ![download](https://github.com/user-attachments/assets/d961510d-632b-4ec8-991d-b9b3f036e688)
 ![download](https://github.com/user-attachments/assets/fae94459-4207-4490-bad3-41d19c1fd844)
 
+# 📊 EDA - 3 (Chronic Disease Dataset)
+
+Welcome to my third Exploratory Data Analysis (EDA) project! In this notebook, I have worked with a **Chronic Disease dataset**, analyzing patient-related features to discover patterns and potential indicators related to chronic conditions.
+
+---
+
+## 📁 Dataset Overview
+
+The dataset includes health and lifestyle-related information such as:
+
+- Age  
+- Gender  
+- Blood Pressure  
+- Cholesterol Level  
+- Glucose Level  
+- Smoking, Alcohol, Physical Activity  
+- BMI  
+- Presence of Chronic Disease (Target Variable)
+
+---
+
+## 🛠️ Tasks Performed
+
+### ✅ Data Cleaning
+- Checked for missing values and handled them  
+- Verified data types and converted where necessary  
+- Removed or corrected inconsistent records
+
+### ✅ Univariate Analysis
+- Distribution of numerical variables (e.g., age, BMI)  
+- Frequency of categorical features (e.g., gender, smoking status)  
+- Count of patients with and without chronic disease
+
+### ✅ Bivariate Analysis
+- Relationship between lifestyle habits and chronic disease  
+- Distribution of disease status across age groups  
+- Impact of glucose and cholesterol levels on health condition
+
+### ✅ Multivariate Analysis
+- Combined multiple features (e.g., age, lifestyle, medical history)  
+- Heatmap and pairplots to identify key patterns  
+- Correlation between features influencing chronic disease
+
+### ✅ Visualizations
+- Histograms, bar plots, count plots  
+- Box plots and violin plots for distributions  
+- Heatmaps and scatter matrices
+
+---
+
+## 📌 Key Insights
+
+- Higher glucose and cholesterol levels are common among chronic disease patients  
+- Lifestyle habits like smoking and lack of physical activity contribute to chronic conditions  
+- Certain age groups show higher disease prevalence  
+- Gender differences are notable in some health indicators
+
+---
+
+## 📎 Tools Used
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Jupyter Notebook
+
+---
+
+![download](https://github.com/user-attachments/assets/f88d9a49-48a9-44b7-bbe0-d14cc90d4c28)
+
 
 
 
