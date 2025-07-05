@@ -208,5 +208,73 @@ The dataset includes health and lifestyle-related information such as:
 ![download](https://github.com/user-attachments/assets/f88d9a49-48a9-44b7-bbe0-d14cc90d4c28)
 
 
+# 📊 EDA - 4 (Travel Dataset)
+
+Welcome to my fourth Exploratory Data Analysis (EDA) project! In this notebook, I have worked with a **Travel dataset** to analyze customer behavior, booking preferences, and travel trends using data-driven insights.
+
+---
+
+## 📁 Dataset Overview
+
+The dataset includes information such as:
+
+- Customer ID  
+- Age  
+- Gender  
+- Type of Travel (Business, Personal)  
+- Duration of Trip  
+- Destination  
+- Mode of Transport  
+- Booking Source  
+- Travel Cost  
+- Ratings/Feedback
+
+---
+
+## 🛠️ Tasks Performed
+
+### ✅ Data Cleaning
+- Handled missing values  
+- Converted and fixed data types  
+- Removed duplicates and standardized column formats
+
+### ✅ Univariate Analysis
+- Analyzed distributions of age, travel cost, trip duration  
+- Count plots for travel type, gender, and booking source  
+
+### ✅ Bivariate Analysis
+- Relationship between trip duration and cost  
+- Travel type preferences by gender  
+- Booking source vs travel cost trends
+
+### ✅ Multivariate Analysis
+- Correlation between multiple numeric features  
+- Segmenting travelers based on travel behavior  
+- Heatmap and grouped visualizations
+
+### ✅ Visualizations
+- Histograms, bar charts, box plots, scatter plots  
+- Heatmaps for correlation matrix
+
+---
+
+## 📌 Key Insights
+
+- Business travelers tend to spend more on shorter trips  
+- Certain destinations have higher average ratings  
+- Online booking is more common among younger customers  
+- Duration and cost are moderately correlated
+
+---
+
+## 📎 Tools Used
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Jupyter Notebook
+
+---![download](https://github.com/user-attachments/assets/fa349ea7-36a8-41af-b14f-24ebc225231a)
+![download](https://github.com/user-attachments/assets/7f1eef89-7e1e-4533-a542-cf3d90ce8540)
+
+
 
 
